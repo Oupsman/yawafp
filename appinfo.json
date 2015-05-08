@@ -1,0 +1,34 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 2,
+        "KEY_FEELSLIKE": 4,
+        "KEY_SHIFT": 8,
+        "KEY_SUMMARY": 7,
+        "KEY_TEMPERATURE": 3,
+        "KEY_TIME": 1,
+        "KEY_TYPE": 0,
+        "KEY_WIND": 5,
+        "KEY_WINDDIR": 6
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "oupsman@oupsman.fr",
+    "longName": "Yet Another Weather App For Pebble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "YAWAFP",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "5bff7f60-5ed0-49d3-a7a4-0869ba9cd773",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
