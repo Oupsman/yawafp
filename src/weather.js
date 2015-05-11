@@ -1,7 +1,7 @@
 // JSON Online viewer : http://jsonviewer.stack.hu/
 // https://api.forecast.io/forecast/af6d2d2f2302bede0951efb26c565b70/47.13469567993814,-2.161695759881867
 
-var api_key = '7cb4d9384cbb528e2c9757b2ec272e5a';
+var api_key = '';
 
 var units = 0;
 var type = 0;
